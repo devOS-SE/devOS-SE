@@ -1,6 +1,6 @@
 ### Welcome to the devOS: Sanity Edition GitHub Account
 
-![image](https://user-images.githubusercontent.com/30705254/134742598-a659e72e-ed3a-46e9-8cbb-2a8afdcb2d56.png)
+![image](https://github.com/devOS-Sanity-Edition/Art/blob/65470054f2ab27858c85c79d81343ce2d7768d3e/devos_embed_banner.png)
 
 This account doesn't really do much other than bridge some integrations and own the devOS: Sanity Edition organization.
 
